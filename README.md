@@ -10,7 +10,7 @@
 chary2054/chary2054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi, I'm <a href='https://dev.to/mohitkota_2003' target="_blank">Mohit</a>! <img src="Profile1/run.png" width="50">
+# Hi, I'm Nagaraju chary! <img src="Profile1/run.png" width="50">
 
 ![Cover](Profile1/coverImg.gif)
 
@@ -23,17 +23,22 @@ You can click the Preview link to take a look at your changes.
 ### <img src="Profile1/cofi.png" width="50"> About Me
 
 ```javascript
-const MohitKota = {
+const NagarajuChary = {
   pronouns: "he" | "him",
-  Iam : ["Software Developer", "FreeLancer", "Competitive Programming"],
-  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
-  tools & Tech: [Angular, NextJs , React JS, vscode, Node, PostgreSQL, MongoDB, ReactNative, Git, VueJS, Postman],
+  Iam : ["Software Developer", "Maths lover", "Competitive Programming"],
+  code: [ SQL, Javascript, Typescript, Java - Oops, C],
+  tools & Tech: [ NestJs , React JS, VScode, NodeJs, PostgreSQL, MongoDB, Git, VueJS, Postman, AWS, ],
   TechWork: {
           Competitive Programming: "Solving Problems",
     },
-  Experience: {
-          Software_Developer Intern: "South Central Railways",
+  Experience: [
+    {
+       Software_Developer_Intern: "Shorebirdie.com",
     },
+    {
+      Full_Stack_Developer_Intern: "Tech Rangers"
+    }
+  ],
  challenge: "Currently I'm focused on enhancing my tech skills in world of complex web applications"
 }
 ```
